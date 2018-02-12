@@ -5,4 +5,4 @@ Requirements :
 1) Preinstalled opencv
 2) argparse
 
-usage $:- python border.py --image ./image.png 
+usage ~ $ :  python border.py --image ./image.png 
