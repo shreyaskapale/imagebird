@@ -1,5 +1,5 @@
 # imagebird
-opencv imagebird is opensource image editing plugin set written purely in python using opencv
+opencv imagebird is opensource image editing example set written purely in python using opencv
 
 Requirements :
 1) Preinstalled opencv
