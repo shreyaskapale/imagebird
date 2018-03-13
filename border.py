@@ -8,7 +8,7 @@ p = argparse.ArgumentParser()
 # create a argument parser  A and P should be capitol as it is
 p.add_argument("-i", "--image", required=True, help="path to the image" )
 # define the argument which should be passed
-color=raw_input("Mention the border colour (choose from red , blue, green, white, black ) : ")
+color=raw_input("Select the border colour (choose from red , blue, green, white, black ) : ")
 # get input...ask for colour ! you can define whichever colour you want it should be in the form (b, g, r)
 if color =="red":
 	setcolor = (0, 0, 255)
