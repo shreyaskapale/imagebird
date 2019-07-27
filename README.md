@@ -5,6 +5,6 @@ Requirements :
 - Preinstalled opencv
 - argparse
 
-####Usage
+#### Usage
 
 `$ python border.py --image ./image.png `
