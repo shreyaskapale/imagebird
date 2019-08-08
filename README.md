@@ -1,7 +1,7 @@
 # imagebird
 opencv imagebird is opensource image editing example set written purely in python using opencv
 
-Requirements :
+Dependencies :
 - Preinstalled opencv
 - argparse
 
